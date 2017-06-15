@@ -17,7 +17,7 @@
             android:id="@+id/product_image"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:src="@drawable/sandals"
+            android:src="@{product.getImage()}"
             android:contentDescription="@string/app_name"
             android:scaleType="fitXY"/>
 

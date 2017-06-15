@@ -29,11 +29,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
 
-//        objectBinding();
+        objectBinding();
 //        observableField();
 //        observableMap();
 //        eventHandler();
-        recyclerviewBinding();
+//        recyclerviewBinding();
     }
 
     private void objectBinding() {
