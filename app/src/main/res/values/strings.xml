@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Using data binding in Android</string>
+    <string name="click_to_display_text">Click to display text</string>
+</resources>
